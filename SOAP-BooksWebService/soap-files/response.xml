@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<getBookDetailResponse xmlns="http://BooksWebService.com/books"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://BooksWebServices.com/book books-details.xsd">
+	<BookDetails>
+		<id>1</id>
+		<name>book1</name>
+		<author>author1</author>
+	</BookDetails>
+</getBookDetailResponse>

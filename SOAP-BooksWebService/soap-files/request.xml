@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<getBookDetailRequest xmlns="http://BooksWebService.com/books" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://BooksWebService.com/books books-details.xsd">
+	<id>1</id>
+</getBookDetailRequest>
